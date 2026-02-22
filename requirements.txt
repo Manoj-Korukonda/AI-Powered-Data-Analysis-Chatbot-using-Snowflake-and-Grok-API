@@ -1,0 +1,3 @@
+!pip install snowflake-connector-python
+
+pip install groq
